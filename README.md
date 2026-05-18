@@ -104,9 +104,9 @@ The dataset contains:
 ## Project Structure
 
 ```bash
-caps/
+/
 │
-├── capstone.ipynb
+├── model.ipynb
 ├── Student_Performance.csv
 └── README.md
 
