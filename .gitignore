@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (if you create one)
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code directory
+.vscode/
+
+# Saved Machine Learning Models (Optional)
+# Uncomment these if your .pkl or .joblib files become too large for GitHub
+# models/*.pkl
+# models/*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
